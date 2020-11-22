@@ -96,7 +96,7 @@
 
 　　2003年12月9日联想承担的国家网格主节点“深腾6800”超级计算机正式研制成功，其实际运算速度达到每秒4.183万亿次，全球排名第14位，运行效率78.5%。
 
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606058911284&di=830369ac7c86917dc1491b64c687f36a&imgtype=0&src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F10696965318%2F1000.jpg
+<img src="https://timgsa.baidu.com/timg？image&quality=80&size=b9999_10000&sec=1606058911284&di=830369ac7c86917dc1491b64c687f36a&imgtype=0&src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F10696965318%2F1000.jpg
 " width="50%">   
 
 　　2003年12月28日“中国芯工程”成果汇报会在人民大会堂举行，我国“星光中国芯”工程开发设计出5代数字多媒体芯片，在国际市场上以超过40%的市场份额占领了计算机图像输入芯片世界第一的位置。
