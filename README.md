@@ -9,13 +9,8 @@
   
 ![RUNOOB 图标](https://bkimg.cdn.bcebos.com/pic/0df431adcbef76094b36d809c995b4cc7cd98d103046?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5)
 
-</td>
-        </td width="25%">
-           <img src="/154100835_1_20190213110014849.jpg" width="100%">
-        </td>
-    </tr>
-  </table>
-  
+<img src="https://bkimg.cdn.bcebos.com/pic/0df431adcbef76094b36d809c995b4cc7cd98d103046?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5" width="50%">
+
 #### >>2.2.2 软件著作权登记正式开始
 
 　　中国软件著作权保护的进程，有着美国施加影响的明显痕迹。在1989年的中美知识产权谈判中，中国方面承诺在制定《著作权法》时，将计算机软件列为《著作权法》保护的客体。因此，在1990年颁布的《著作权法》中，计算机软件被列为受著作权法保护的一类作品，同时规定另行制定单独的保护办法。作为著作权法配套法规的《计算机软件保护条例》?以下简称“《软件条例》”?中的一些具体规定?如第7条、第21条、第24条，也明显带有出自美国版权法类似规定的痕迹。
